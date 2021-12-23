@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+  color: #926239;
+}
+
+.header {
+  background-image: url(./img/background.jpg);
+  text-align: center;
+}
+
+input {
+  background: none;
+  border: 1px solid #926239;
+  border-radius: 10px;
+  padding: 10px 15px;
+}
